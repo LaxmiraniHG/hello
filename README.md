@@ -1,2 +1,5 @@
-# hello
-learning github
+#include<stdio.h>
+int main()
+{
+
+
